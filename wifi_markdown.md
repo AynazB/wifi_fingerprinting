@@ -171,7 +171,7 @@ plotlySignal <-
 plotlySignal
 ```
 
-![](plotwifistrength.png)
+![](plots/plotwifistrength.png)
 
 ------------------------------------------------------------------------
 
